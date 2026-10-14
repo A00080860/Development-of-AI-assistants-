@@ -10,12 +10,6 @@
 *Italic text*
 
 `Inline code`
-
 ### A Numbered List
 1. First step
 2. Second step
-
-[Visit GitHub](https://github.com)
-
-
-test
