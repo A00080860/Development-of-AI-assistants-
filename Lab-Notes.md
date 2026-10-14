@@ -1,15 +1,20 @@
-# Lab Notes
+Development Of AI Assistants
 
-## What We Did Today
-- Created a GitHub repository
-- Cloned it to our local computer
-- Learned Markdown syntax
+Historical Evolutions of AI Development
 
-**Bold text**
+Anyalysis Of The Development Of AI through A Socital And Business Viewpoint
 
-*Italic text*
+An Evalutaion Of The Ethical Implications Of AI Development And Proposition of Realistic Improvments 
 
-`Inline code`
-### A Numbered List
-1. First step
-2. Second step
+
+Introduction
+
+Historical Developments
+
+First Viewpoint Analysis
+
+Ethical Reflection And Improvments
+
+Conclusion
+
+References
