@@ -1,10 +1,10 @@
-Development Of AI Assistants
+#Development Of AI Assistants
 
-1 Historical Evolutions of AI Development
+**Historical Evolutions of AI Development**
 
-2 Analysis Of The Development Of AI through A Societal And Business Viewpoint
+**Analysis Of The Development Of AI through A Societal And Business Viewpoint**
 
-3 An Evaluation Of The Ethical Implications Of AI Development And Proposition of Realistic Improvements
+**An Evaluation Of The Ethical Implications Of AI Development And Proposition of Realistic Improvements**
 
 -Introduction
 
