@@ -13,6 +13,8 @@ Development Of AI Assistants
 
 -First Viewpoint Analysis
 
+-Second Viewpoint Analysis
+
 -Ethical Reflection And Improvments
 
 -Conclusion
