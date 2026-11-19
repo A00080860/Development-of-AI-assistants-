@@ -31,3 +31,7 @@ Ai is and can do amazing things we just have to use it correctly.
 -Conclusion
 
 -References
+
+1. UNESCO. (2021). *Recommendation on the Ethics of Artificial Intelligence*. [https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence](https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence)
+
+2. Tabassi, E. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. National Institute of Standards and Technology. [https://doi.org/10.6028/NIST.AI.100-1](https://doi.org/10.6028/NIST.AI.100-1)
