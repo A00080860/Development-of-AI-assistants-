@@ -2,7 +2,7 @@
 
 
 
-**Historical Evolutions of AI Development**
+**Historical Evolution of AI Development**
 
 **Analysis Of The Development Of AI through A Societal And Business Viewpoint**
 
@@ -16,6 +16,10 @@
 -Historical Developments
 
 -First Viewpoint Analysis
+
+AI can help people learn and get important things done but in the current day and age it works best as a support tool as of now it heavily enables straight up lazy behavior and habits. It can explain difficult ideas, suggest starting points and help people practice. However, if people rely on AI to do their thinking they may learn less or accept answers that are wrong or biased. People should stay responsible for making their own decisions. 
+
+Since AI is becoming part of everyday life, it would be much more dangerous to have a society built partially on fake hard work. For example in a 2023 court case lawyers used chat GPT to help prepare a filing, but it produced fake legal cases and quotes. The lawyers ended up submitting them without properly checking and the judge ordered them and their firm to pay a $5000 fine. And this wasn't a case of kids just trying to pass a test in school, in their profession they chose to use ai to get some work done for them. this shows how AI can sound very convincing while being completely wrong. schools should teach students how to use it effectively without relying on it too much.
 
 Historical Development of AI 
 
@@ -82,27 +86,23 @@ At the same time, growing AI adoption is driving investment in data centers, spe
 As AI systems become more autonomous, concerns about reliability, security and control are also growing. In 2026, reports of AI agents taking unintended actions during testing and other deployments have raised questions about how well these systems follow instructions and how much authority they should have over external tools and systems. These concerns are adding urgency to calls for stronger AI safety measures, monitoring and governance as governments and organizations consider how to regulate increasingly capable AI.
 
 
-AI can help people learn and get important things done but in the current day and age it works best as a support tool as of now it heavily enables straight up lazy behaviour and habits. It can explain difficult ideas, suggest starting points and help people practise. However, if people rely on AI to do their thinking they may learn less or accept answers that are wrong or biased. People should stay responsible for making their own decisions. 
-
-Since AI is becoming part of everyday life, it would be much more dangerous to have a society built partially on fake hard work. For example in a 2023 court case lawyers used chat gpt to help prepare a filing, but it produced fake legal cases and quotes. The lawyers ended up submitting them without properly checking and the judge ordered them and their firm to pay a $5000 fine. And this wasn't a case of kids just trying to pass a test in school, in their profession they chose to use ai to get some work done for them. this shows how ai can sound very convincing while being completely wrong. schools should teach students how to use it effectively without relying on it too much.
-
 -Second Viewpoint Analysis
 
 -Ethical Reflection And Improvements
 
 Ai assistants are useful tools for learning and getting important work done but people should not rely on it for all their thinking, there is an array of issues that follow if AI is used as a Crutch instead of a tool. If people accept AI answers without checking them, they may learn less, get lazy or make decisions based on incorrect or biased info because ai learns off patterns making some info unreliable. 
 
-Ai should support human judgment people should be the ones who remain responsible for checking its output. Schools and workplaces could encourage this by teaching people how to verify AI answers by setting clear rules for when Ai use is appropriate 
+AI should support human judgment people should be the ones who remain responsible for checking its output. Schools and workplaces could encourage this by teaching people how to verify AI answers by setting clear rules for when Ai use is appropriate 
 
-Ai is and can do amazing things we just have to use it correctly. 
+AI is and can do amazing things we just have to use it correctly. 
 
-Benefits of Ai
+Benefits of AI
 
 AI's benefits extend across decision-making, automation, continuous learning, and seamless integration into existing workflows. At its core, AI represents a fundamental shift in how we approach problem-solving and decision-making. In an era defined by unprecedented amounts of data, artificial intelligence serves as our cognitive extension, helping us make sense of complexity that would otherwise overwhelm human capabilities.
 
 Without AI's ability to process and analyze this information, we would be drowning in data while starved for understanding. AI transforms this potential liability into an invaluable asset, extracting meaningful patterns and actionable insights from digital noise.
 
-Ai Assistance in education;- Artificial Intelligence systems and tools are already part of our everyday lives. As AI continues to evolve, it is important to be aware of the benefits and the risks it can have in teaching and learning.
+AI Assistance in education;- Artificial Intelligence systems and tools are already part of our everyday lives. As AI continues to evolve, it is important to be aware of the benefits and the risks it can have in teaching and learning.
 
 Teaching Assistance
 
