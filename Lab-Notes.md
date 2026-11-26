@@ -17,7 +17,7 @@
 
 -First Viewpoint Analysis
 
-Historical Development of AI - 
+Historical Development of AI 
 
 Humans have dreamed of creating thinking machines from ancient times. Folklore and historical attempts to build programmable devices reflect this long-standing ambition and fiction abounds with the possibilities of intelligent machines, imagining their benefits and dangers. It’s no wonder that when OpenAI introduced GPT-1 (Generative Pre-trained Transformer) in 2018, it marked an important technical step in the development of generative AI and the realization of this ancient dream.
 
