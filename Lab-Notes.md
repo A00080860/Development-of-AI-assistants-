@@ -149,6 +149,18 @@ Improving products/services and fostering innovation (20%)
 Increasing revenue (20%)
 Revenue growth largely remains an aspiration, with 74% of organizations hoping to grow revenue through their AI initiatives in the future compared to just 20% that are already doing so. These numbers suggest AI is on the verge of breaking out and delivering a wide range of benefits that go far beyond efficiency and productivity improvements. Ultimately, however, success with AI isn’t just about boosting efficiency or even growing revenue. It’s about achieving strategic differentiation and a lasting competitive edge in the marketplace.
 
+- Will AI replace business development professionals?
+No. AI handles data, patterns and content at scale; BD professionals build trust, exercise judgement and navigate stakeholders. The best professionals use AI to amplify those strengths.
+- How is AI used in business development?
+Mainly for predictive lead scoring, personalized outreach, market intelligence, proposal drafting, pipeline forecasting, relationship intelligence, scenario modelling and partner due diligence.
+- What AI skills do BD professionals need?
+The BDA BoCK® 2026 embeds four: AI literacy, tool integration, ethics and responsible use, and AI-augmented strategy.
+- What are the risks of AI in business development?
+Unverified outputs, data privacy breaches, bias in prospect scoring, loss of authenticity with clients, and tools adopted without the competency to use them. Governance and human review reduce these risks.
+- How do organizations start using AI in BD?
+Follow BDA's four stages: assess, priorities 2–3 use cases, pilot with clear metrics, then scale what works.
+
+
 
 -Conclusion
 
