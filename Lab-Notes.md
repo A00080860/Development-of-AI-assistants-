@@ -140,7 +140,7 @@ Copyright/ Licensing Unknowns: Understanding copyright laws is an important elem
 
 Development of AI through Business - What does AI do for business?
 
-Digital transformation with AI can yield a variety of benefits for businesses, from cost savings to service delivery. Improving productivity and efficiency top the list of benefits achieved from enterprise AI adoption so far, with two-thirds (66%) of organisations reporting gains. Other benefits organizations reported achieving include, 
+Digital transformation with AI can yield a variety of benefits for businesses, from cost savings to service delivery. Improving productivity and efficiency top the list of benefits achieved from enterprise AI adoption so far, with two-thirds (66%) of organizations reporting gains. Other benefits organizations reported achieving include, 
 
 Enhancing insights and decision-making (53%)
 Reducing costs (40%)
