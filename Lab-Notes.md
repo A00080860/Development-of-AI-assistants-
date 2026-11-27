@@ -13,7 +13,16 @@
 
 -Introduction
 
--Historical Developments
+AI has become one of the most significant developments in modern day computing. What origionally began as just an idea of creating maching capable of preforming tasks asociated with human intelligence has developed into technology that is used in everyday life. Ai assistants have changed how people access information, it helps with completing tasks , and has changed the way we communicate and interact with technology.
+From early experiments in artificial intelligence to modern sytstems like chatgpt and google gemini,the development of ai assistens represents a major change in the relationship between humans and computers.
+
+The importance of ai can be seen across many diffrent areas of society. People use it for education,research,problem solving and everyday tasks and buisnesses increasingly use AI to improve productivity by automating processes and providing customer support.
+Although these developments offer many advantages,they also introduce concerning misinformation, privacy issues,bias because of pattern based learning and the possibility of becoming overly dependent on artificial intelligence.
+
+This case study examines the history evolution of AI assistants, going through major developments that have contributed to their current cababilitie.
+it analyses their impace through two diffrent viewpoints:How it looks in the view of society vs How it looks in the face of a buisness stand point.
+The societal perspective considers how Ai assistants influence education,human decision making,accessibility and everyday life.
+The buisness viewpoint is more about how ai is being used to improve efficieny and reduce cost however my personal opinion is as of now it is not being used to enhance the customers experience in alot of ways, hence the harshness of tone when it comes to the societal viewpoint.
 
 -First Viewpoint Analysis
 
@@ -210,6 +219,23 @@ AI will drive increasingly sophisticated personalization for business marketing,
 
 
 -Conclusion
+The development of ai shows how far computing technology has ventured and how significantly it has changed the way people interact with computers.It went from early purley theoretical ideas to experiments in artificial intelligence to modern conversational systems like chatgpt,gemini and claude. 
+Ai has evolved into a technology with applications across almost every aspect of modern life.
+its development has created opportunities that were previously difficult to imagine, like in education, reasearch, and buisness.
+
+Through the socieetal viewpoint it is clear ai can provide valuable support by making information more accessible,helping students understand difficult subjects and assisting people with everyday tasks.However, these benefits come with changes.Dependancy on ai can reduce independant thinking, while innacurate info and algorithmic bias can influence people's decisions.
+Ai shoul really be used as a support tool rather than a full replacement for human judgement and understanding because at the end of the day Ai is still man made machinery.
+
+From a buisness viewpoint, Ai offers organisatons opprutunities to improve productivity,automate repetitive work,reduce operational costs and provide faster customer service.
+Buisnesses also use ai for Data to analyse information and support decision making. 
+But Despite these advantages orginisations must consider the risk of handling personal date and relying on inaccurate outputs and introducing unfair biased systems on their operation.
+Human supervision and responsible ways of implementing ai is still very important.
+
+The ethical implications discussed throughout this case study show that thechnological progress must be balandced with responsibility and handled with care.Improvments like stronger data protection or more transparent AI systems, regular testing for bias,or even just more human oversigt could help reduce the risks associated with ai.
+Education could also play a big role in helping people understand both the capabilities and limitations of Ai.
+
+Overall Ai assistants are very likely to become and increasingly important part of society and the buisness world. Their long term value will not only depend on how advanced the tech becomes but how responsibly it is developed and used.
+Ai has the potention to improve many aspects of human life,provided that people and organisations remain accountable for the decisions they make with it.
 
 -References
 
