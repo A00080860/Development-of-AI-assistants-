@@ -1,4 +1,4 @@
-#Development Of AI Assistants
+# Development Of AI Assistants
 
 
 
@@ -11,7 +11,7 @@
 
 
 
--Introduction
+## Introduction
 
 AI has become one of the most significant developments in modern day computing. What origionally began as just an idea of creating maching capable of preforming tasks asociated with human intelligence has developed into technology that is used in everyday life. Ai assistants have changed how people access information, it helps with completing tasks , and has changed the way we communicate and interact with technology.
 From early experiments in artificial intelligence to modern sytstems like chatgpt and google gemini,the development of ai assistens represents a major change in the relationship between humans and computers.
@@ -24,7 +24,7 @@ it analyses their impace through two diffrent viewpoints:How it looks in the vie
 The societal perspective considers how Ai assistants influence education,human decision making,accessibility and everyday life.
 The buisness viewpoint is more about how ai is being used to improve efficieny and reduce cost however my personal opinion is as of now it is not being used to enhance the customers experience in alot of ways, hence the harshness of tone when it comes to the societal viewpoint.
 
--First Viewpoint Analysis
+## First Viewpoint Analysis
 
 AI can help people learn and get important things done but in the current day and age it works best as a support tool as of now it heavily enables straight up lazy behavior and habits. It can explain difficult ideas, suggest starting points and help people practice. However, if people rely on AI to do their thinking they may learn less or accept answers that are wrong or biased. People should stay responsible for making their own decisions. 
 
@@ -95,9 +95,37 @@ At the same time, growing AI adoption is driving investment in data centers, spe
 As AI systems become more autonomous, concerns about reliability, security and control are also growing. In 2026, reports of AI agents taking unintended actions during testing and other deployments have raised questions about how well these systems follow instructions and how much authority they should have over external tools and systems. These concerns are adding urgency to calls for stronger AI safety measures, monitoring and governance as governments and organizations consider how to regulate increasingly capable AI.
 
 
--Second Viewpoint Analysis
+## Second Viewpoint Analysis
 
--Ethical Reflection And Improvements
+ Business Viewpoint
+
+The development of AI assistants from a business viewpoint has helped to create many opportunities for businesses to improve how they operate.
+
+Generally, businesses are interested in new ways they can save money and improve their productivity. For these businesses, AI can be a very helpful tool to achieve these things. There are many benefits to introducing AI assistants into a business, but there can also be some drawbacks, particularly for customers and employees.
+
+- Automation and Productivity
+
+One of the main benefits of AI assistants is the ability to automate a large amount of work that a human couldn’t do in the same amount of time. Some examples of this are repetitive tasks like data entry or answering emails. This in turn can allow people to focus on other areas of their job and save the business time and money (Brynjolfsson, Li and Raymond, 2025).
+
+- Sales and Stock Analysis
+
+AI can also be helpful to a business when analysing its sales and changing market trends. This can allow a business to look at its previous sales and what is currently popular on the market. It can help the business manage its stock better, increase its profits and reduce waste.
+
+- Customer Service
+
+Another area of business that AI has become more prevalent in is customer service. Many businesses now have AI chatbots to help with customer queries through an online chat or outside of business hours. Businesses generally do this in hopes of reducing wait times for customers and saving money while still providing an efficient service.
+
+- Customer Service Limitations
+
+To many, though, the use of AI in customer service can be seen as poorly handled and can leave a customer feeling more frustrated than when they started the conversation. Due to the rise of AI in customer service roles, the automated process can also make it harder to speak to a human, especially in circumstances where the AI cannot figure out or help with the issue.
+
+- Employment Concerns
+
+Another major concern is the possibility of AI taking jobs. From the viewpoint of the business, it does make sense as this can save money and automate a large amount of work quickly. However, the concern with businesses doing this is that it may lead to job losses and fewer opportunities for people entering those industries. Businesses also need to assess the risks and put suitable safeguards in place when introducing AI (Autio et al., 2024).
+
+
+
+## Ethical Reflection And Improvements
 
 Ai assistants are useful tools for learning and getting important work done but people should not rely on it for all their thinking, there is an array of issues that follow if AI is used as a Crutch instead of a tool. If people accept AI answers without checking them, they may learn less, get lazy or make decisions based on incorrect or biased info because ai learns off patterns making some info unreliable. 
 
@@ -218,7 +246,7 @@ AI will drive increasingly sophisticated personalization for business marketing,
  AI will power more accurate predictive analytics, empowering businesses to forecast long-term trends, optimize supply chain logistics, manage inventories better, and improve overall financial planning.
 
 
--Conclusion
+## Conclusion
 The development of ai shows how far computing technology has ventured and how significantly it has changed the way people interact with computers.It went from early purley theoretical ideas to experiments in artificial intelligence to modern conversational systems like chatgpt,gemini and claude. 
 Ai has evolved into a technology with applications across almost every aspect of modern life.
 its development has created opportunities that were previously difficult to imagine, like in education, reasearch, and buisness.
@@ -237,7 +265,7 @@ Education could also play a big role in helping people understand both the capab
 Overall Ai assistants are very likely to become and increasingly important part of society and the buisness world. Their long term value will not only depend on how advanced the tech becomes but how responsibly it is developed and used.
 Ai has the potention to improve many aspects of human life,provided that people and organisations remain accountable for the decisions they make with it.
 
--References
+## References
 
 1. UNESCO. (2021). *Recommendation on the Ethics of Artificial Intelligence*. [https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence](https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence)
 
@@ -250,3 +278,7 @@ Ai has the potention to improve many aspects of human life,provided that people 
 5. Thomson Reuters (2026)Benefits of AI, 25 August Available at (https://www.thomsonreuters.com/en/insights/articles/benefits-of-artificial-intelligence-a)  (Accesed:26 November 2026). 
 
 6. Thomson Reuters (2026) *Benefits of AI. 25 August. Available at: https://www.thomsonreuters.com/en/insights/articles/benefits-of-artificial-intelligence-ai (Accessed: 26 November 2026).
+
+7. Brynjolfsson, E., Li, D. and Raymond, L. (2025) ‘Generative AI at Work’, *The Quarterly Journal of Economics*, 140(2), pp. 889–942. [https://doi.org/10.1093/qje/qjae044](https://doi.org/10.1093/qje/qjae044)
+
+8. Autio, C., Schwartz, R., Dunietz, J., Jain, S., Stanley, M., Tabassi, E., Hall, P. and Roberts, K. (2024) *Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile*. National Institute of Standards and Technology. [https://doi.org/10.6028/NIST.AI.600-1](https://doi.org/10.6028/NIST.AI.600-1)
