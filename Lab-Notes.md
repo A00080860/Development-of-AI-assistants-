@@ -279,6 +279,6 @@ Ai has the potention to improve many aspects of human life,provided that people 
 
 6. Thomson Reuters (2026) *Benefits of AI. 25 August. Available at: https://www.thomsonreuters.com/en/insights/articles/benefits-of-artificial-intelligence-ai (Accessed: 26 November 2026).
 
-7. Brynjolfsson, E., Li, D. and Raymond, L. (2025) ‘Generative AI at Work’, *The Quarterly Journal of Economics*, 140(2), pp. 889–942. [https://doi.org/10.1093/qje/qjae044](https://doi.org/10.1093/qje/qjae044)
+7. Brynjolfsson, E., Li, D. and Raymond, L. (2025) ‘Generative AI at Work’, *The Quarterly Journal of Economics*, 140(2), pp. 889–942. [https://doi.org/10.1093/qje/qjae044](https://doi.org/10.1093/qje/qjae044)  (Accesed:26 November 2026)
 
-8. Autio, C., Schwartz, R., Dunietz, J., Jain, S., Stanley, M., Tabassi, E., Hall, P. and Roberts, K. (2024) *Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile*. National Institute of Standards and Technology. [https://doi.org/10.6028/NIST.AI.600-1](https://doi.org/10.6028/NIST.AI.600-1)
+8. Autio, C., Schwartz, R., Dunietz, J., Jain, S., Stanley, M., Tabassi, E., Hall, P. and Roberts, K. (2024) *Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile*. National Institute of Standards and Technology. [https://doi.org/10.6028/NIST.AI.600-1](https://doi.org/10.6028/NIST.AI.600-1)  ( Accessed: 26 November 2026)
